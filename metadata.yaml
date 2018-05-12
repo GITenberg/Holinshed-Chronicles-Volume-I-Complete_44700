@@ -33,6 +33,8 @@ creator:
     gutenberg_agent_id: '41719'
     url: http://www.gutenberg.org/2009/agents/41719
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44700#Holinshed-Chronicles-Volume-I-Complete
 gutenberg_issued: '2014-01-18'
 gutenberg_type: Text
 identifiers:
