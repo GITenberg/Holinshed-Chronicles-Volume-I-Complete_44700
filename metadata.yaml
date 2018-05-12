@@ -1,0 +1,49 @@
+_repo: Holinshed-Chronicles-Volume-I-Complete_44700
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44700-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Harrison, William
+    birthdate: 1534
+    deathdate: 1593
+    gutenberg_agent_id: '35928'
+    url: http://www.gutenberg.org/2009/agents/35928
+  - agent_name: Holinshed, Raphael
+    aliases:
+    - Holingshed, Raphael
+    - Holinshed, Raphaell
+    - Holynshed, Raphael
+    - Holinshed, Ralph
+    - Holinshead, Raphael
+    gutenberg_agent_id: '5166'
+    url: http://www.gutenberg.org/2009/agents/5166
+    wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
+  editor:
+    agent_name: Hooker, John
+    aliases:
+    - Vowel, Iohn
+    - Hoker, Iohn
+    - Hoker, John
+    - Hooker, Iohn
+    - Vowell, Iohn
+    - Vowell, John
+    deathdate: 1601
+    gutenberg_agent_id: '41719'
+    url: http://www.gutenberg.org/2009/agents/41719
+description: ''
+gutenberg_issued: '2014-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603'
+- !lcsh 'Great Britain -- History -- To 1485'
+- !lcc 'DA'
+title: 'Holinshed Chronicles: England, Scotland, and Ireland. Volume 1, Complete'
+url: http://www.gutenberg.org/ebooks/44700
